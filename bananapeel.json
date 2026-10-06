@@ -1,7 +1,9 @@
 {
-  "name": "my-game",
-  "title": "My Game",
-  "main": "my-game.sb3",
+  "name": "generic-black-1",
+  "title": "Generic Black",
+  "version": "1.0.0",
+  "description": "The first Generic Black. Reach level 11 and it disappears.",
+  "main": "generic-black-1.sb3",
   "uninstallWhen": { "variable": "level", "atLeast": 11 },
   "expires": "7d"
 }
