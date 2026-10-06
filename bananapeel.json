@@ -5,4 +5,4 @@
   "description": "The first Generic Black. Reach level 11 and it disappears.",
   "main": "generic-black-1.sb3",
   "uninstallWhen": { "variable": "level", "atLeast": 11 },
-  }
+}
