@@ -1,8 +1,9 @@
 {
   "name": "generic-black-1",
   "title": "Generic Black",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The first Generic Black. Reach level 11 and it disappears.",
   "main": "generic-black-1.sb3",
+  "icon": "icon.png",
   "uninstallWhen": { "variable": "level", "atLeast": 11 }
 }
