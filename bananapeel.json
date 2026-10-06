@@ -1,0 +1,7 @@
+{
+  "name": "my-game",
+  "title": "My Game",
+  "main": "my-game.sb3",
+  "uninstallWhen": { "variable": "level", "atLeast": 11 },
+  "expires": "7d"
+}
